@@ -11,7 +11,7 @@ public class Calculadora {
 	}
 	
 	public int multiplicar(int a, int b) {
-		// comentario para detectar cambios dos
+		// comentario para detectar cambios tres
 		return a * b;
 	}
 	
